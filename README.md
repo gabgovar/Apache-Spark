@@ -1,4 +1,4 @@
-# Introdução ao Apache Spark
+# Apache Spark
 
 Para mais informações sobre o a teoria do Apache Spark veja o link abaixo:
 
